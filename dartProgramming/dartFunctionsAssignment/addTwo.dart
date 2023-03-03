@@ -1,3 +1,6 @@
+/* 
+ * function returns sum of two integers
+ */
 int addTwo(int x, int y)
 {
   return x + y;
