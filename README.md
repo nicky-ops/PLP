@@ -1,2 +1,2 @@
-# PLP
-Power Learn Project Training 
+# Power Learn Project Software Development
+Documentation of the entire learnig journey. 
