@@ -1,5 +1,5 @@
 /*
-  function getFirstElement takes a list as an argument    and returns the first element of that list
+  function getFirstElement takes a list as an argument and returns the first element of that list
 */
 
 int getFirstElement(List nums)
