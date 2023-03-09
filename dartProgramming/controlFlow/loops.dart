@@ -7,16 +7,15 @@ void main()
   {
     print(j); 
   }
-  
-  while (i<=10)
+  int k =0;
+  while (k <=10)
   {
     print(message);
-    i++;
+    k=k+1;
   }
 
-  i =0;
   do {
     print("Do Do Do");
     i++;
-  } while(i<4);
+  } while(i<=4);
 }
