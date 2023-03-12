@@ -9,7 +9,7 @@ sum2 = num1 + num2
 print(str,type(str))
 print(num1, type(num1))
 
-# printing sum 1 throws an error
-# print(sum1)
+'''printing sum 1 throws an error
+print(sum1)'''
 
 print(sum2)
