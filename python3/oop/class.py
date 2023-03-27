@@ -6,9 +6,13 @@ class Label:
 class attributes are variables defined directly in the class that are shared by all objects of the class
 '''
 class Person:
-  def __init__(self):
+  def __init__(self,name,age, route = "MSA"):
     print("Constructor invoked!")
-    name = "JDM"
+    self.name = name
+    self.age = age
+    self.route = route
+  def display(self):
+    print(f"Personal Name: {self.name}, Age: {self.age} ")
 
-output = Person()
-print(output.name)
+output = Person('Javan', '33')
+output.display()
