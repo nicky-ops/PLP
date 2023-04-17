@@ -6,7 +6,7 @@ class MyContextManager:
   def __exit__(self, exc_type, exc_val, exc_tb):
     print("Exiting context")
     if exc_type is not None:
-      print(f"An error of type {exc_type} occurred: {exc_val}")
+      print(f"An error of type {exc_type} occurred:cl {exc_val}")
     return True
 
 with MyContextManager() as cm:
