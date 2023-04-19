@@ -8,3 +8,6 @@ One of the simplest and most common debugging techniques is to insert print stat
 ### 2. Debugging With Pdb
 * *Pdb* - Python's interactive source code debugger.
 
+## Test-Driven Development (TDD)
+* *Test-driven develpment* is a software development practice where develpers write test before writing the actual code. The test specify the desired behaviour of the code and serveas a specification for what the code should do.
+<img src = "https://www.xenonstack.com/hubfs/test-driven-development-process-cycle-xenonstack.png" />
